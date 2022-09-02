@@ -1,0 +1,15 @@
+.gameContainer h1{
+    margin-bottom: 0;
+}
+
+.gameContainer h2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.3em;
+}
+
+.gameContainer h2 span{
+    color: #ECFa00;
+    font-size: 1.5em;
+}
